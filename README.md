@@ -25,7 +25,27 @@ génération de statistiques d'utilisation.
 - IDE : Android Studio
 - Connexion internet pour accéder à la base de données
 - Un compte MariaDB pour gérer la base de données externe
-### French
-MedFinder est une application permettant à ses utilisateurs de signaler des médicaments manquants à leur pharmacie. Cette application est le résultat d'un projet réalisé en deuxième année de BUT Informatique.
+
 ### English
-MedFinder is an application allowing the user to report missing medicine at their pharmacy. This application is the result of a project made during my second year of what would be the equivalent of an Associate Degree.
+
+## Team 
+- Estermann Nicolas
+- Galibardy-Séfrin Clément
+- Salliot Clément
+- Jiang Kevin
+- Zouaoui Rayan
+
+## Introduction
+MedFinder is an Android application designed to help users quickly and easily report medications that need to be renewed. Users can either manually enter the CIS code of the medication or use the DataMatrix scanning feature to speed up the process. The application is intended to be integrated into the services of the Intercommunalités de France and also provides user account management and usage statistics generation.
+
+## Features
+- **Manual entry or medication scan** :Users can enter a CIS code or scan a DataMatrix code.
+- **Account management** : Create an account, reset passwords, and manage personal information.
+- **Statistics** :  Track user reports with a dedicated admin page for data analysis.
+- **Multilingual and theme support** :The app adapts to the phone's language (French/English) and theme (dark/light).
+  
+## Requirements
+- Android SDK version 5.0 (Lollipop) or later
+- IDE: Android Studio
+- Internet connection to access the database
+- MariaDB account to manage the external database
