@@ -26,8 +26,7 @@ génération de statistiques d'utilisation.
 - Connexion internet pour accéder à la base de données
 - Un compte MariaDB pour gérer la base de données externe
 
-### English
-
+# English
 ## Team 
 - Estermann Nicolas
 - Galibardy-Séfrin Clément
